@@ -45,6 +45,52 @@ Ao clicar em "Agendar", o sistema deve armazenar a requisição na API e avança
 
 #### Confirmação de agendamento
 
-![Confirmacao](/images/Confirmacao.png?raw=true "Confirmação")
+![Confirmacao](/Confirmacao.png?raw=true "Confirmação")
 
 Na tela de confirmação, o usuário pode visualizar os dados do agendamento que ele acabou de criar.
+
+### Especificações da API
+
+Sinta-se à vontade para implementar a API como você quiser, lembrando de sempre seguir boas práticas de código e as especificações RESTful.
+
+### Enviando o seu projeto
+
+1. Faça o upload do código para o Github
+2. Envie o link do repositório para feliciano@assinasaude.com.br, com instruções de como rodar o projeto e quaisquer outras informações que você achar importante mencionar.
+Por exemplo:
+
+> Para rodar o projeto, executar npm install e npm start. Não pude concluir a parte X, mas com mais tempo eu a implementaria usando a biblioteca Y.
+
+3. Tudo pronto! Agora entraremos em contato assim que avaliarmos a sua submissão.
+
+### Critérios de Avaliação
+
+1. **Corretude**: o seu código deve ser correto, isso é, ele deve fazer tudo que o desafio te propôs.
+Não vamos testar cada caso especial, mas casos que podem ser razoavelmente esperados durante o uso normal do sistema não devem ter bugs triviais.
+
+2. **Design / Usabilidade**: O design de cada solução deve ser no mínimo funcional e obedecer aos padrões estabelecidos nas screenshots acima.
+
+3. **Performance**: As suas soluções não devem travar o navegador por nenhum período de tempo sob situações de uso normal.
+
+4. **Qualidade do código**: O seu código deve respeitar algumas regras básicas de qualidade como de-duplicação e deve evitar o máximo de mau cheiros de código possível.
+Sua submissão também se destaca se você utilizar uma ferramenta como o ESLint para manter o estilo consistente em todos os arquivos.
+
+### Critérios opcionais:
+
+Você só precisa se preocupar com esses critérios se tiver tempo extra, mas você definitivamente vai se destacar!
+
+1. **Responsividade**: Vamos testar prioritariamente em dispositivos móveis, mas se você garantir que o seu layout fique agradável no desktop, mais pontos pra você!
+
+2. **Testes Unitários**: [Código sem testes é código quebrado por design](https://jacobian.org/2009/apr/15/django-apps-with-buildout/). Se você escrever testes para os casos mais básicos de uso, com certeza terá bastante destaque!
+
+3. **Histórico de commits**: Não estamos preocupados com o horário de cada commit, mas gostaríamos que seus commits seguissem uma ordem lógica e tivessem mensagens descritivas de cada alteração que ocorreu.
+
+4. **Tratamento de erros**: Tratar o que acontece quando a API está indisponível ou a internet do usuário caiu é parte importantíssima para usabilidade. Pontos extras se exibir uma mensagem amigável quando ocorrerem erros na comunicação com a API.
+
+5. **Animações**: Adoramos utilizar animações para tornar a experiência mais agradável e responsiva. Se você utilizar transações de tela e microanimações, vamos mostrar seu projeto pra todo mundo no escritório.
+
+6. **Sua criatividade**: Sinta-se encorajado para adicionar quaisquer outras features que você quiser, contanto que você as mencione quando enviar seu projeto (para que possamos procurar por elas!).
+
+### Problemas ou dúvidas?
+
+[Abra uma nova issue](/issues)!
