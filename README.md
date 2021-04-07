@@ -17,7 +17,8 @@ Nós sinceramente esperamos que você se divirta com esse desafio e talvez até 
 
 A tarefa é implementar uma API Rest e um cliente que interaja com essa API.
 
-> Nós **fortemente** preferimos que você use Django e React, mas caso não seja possível, considere utilizar frameworks semelhantes como Ruby on Rais, Laravel, Vue ou Angular.
+> Aqui na Assina, nós usamos Django e React, mas caso você não seja muito familiar com elas, considere utilizar frameworks semelhantes como Ruby on Rails, Laravel, Vue ou Angular.
+> Nenhuma rota precisa de autenticação!
 
 Seguem as especificações das telas:
 
